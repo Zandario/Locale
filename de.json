@@ -754,7 +754,7 @@
         "Tooltip.Material.CreateNew": "Neu erstellen",
 
         "Tooltip.Mesh.Edit": "Mesh bearbeiten",
-        
+
         "Tooltip.Cartridge.Eject": "Orb auswerfen",
 
         "Tooltip.Microphone.Format.WAV": "WAV",
@@ -1624,7 +1624,7 @@
         "Desktop.LegacyInputMode.Off": "Abwärtskompatible Eingabe: Aus",
         "Desktop.Brightness": "Helligkeit: {n,number,percent}",
         "Desktop.Opacity": "Transparenz: {n,number,percent}",
-        
+
         "VolumePlaneSlicer.Highlight": "Hervorhebung",
         "VolumePlaneSlicer.Slicer": "Schneiden",
 
@@ -2030,7 +2030,7 @@
         "UI.ColorPicker.Gain": "Stärke",
 
         "UI.ProgressBar.ImportingItem": "Objekt Importieren",
-        
+
         "UI.Camera.Automatic": "Automatisch",
         "UI.Camera.Manual": "Manuell",
 
@@ -2060,6 +2060,12 @@
         "Tools.Names.ControllerDiagnostic": "Controller-Diagnose-Tool",
         "Tools.Names.Measure": "Ausmessungs-Tool",
         "Tools.Names.Label": "Etikettier-Tool",
+
+        "Discord.RichPresence.InPrivateWorld": "In privater Welt",
+        "Discord.RichPresence.InPrivateLargeText": "Privat ({version})",
+        "Discord.RichPresence.InPublicWorld": "In öffentlicher Welt",
+        "Discord.RichPresence.PublicWorldDetails": "{worldName} ({totalWorlds} Welten)",
+        "Discord.RichPresence.InPublicLargeText": "Öffentlich ({version})",
 
         "Dummy": "Dummy"
     }

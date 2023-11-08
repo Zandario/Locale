@@ -490,7 +490,7 @@
         "Recovery.IncorrectEmail": "Väärä sähköpostiosoite",
         "Recovery.IncorrectEmail.Description": "Annoit väärän sähköpostiosoitteen salasanan palautusta varten. Tarkista tietosi ja yritä uudelleen.",
 
-        "Recovery.NoPasswordSetup": "Salasanaa ei määritetty", 
+        "Recovery.NoPasswordSetup": "Salasanaa ei määritetty",
         "Recovery.NoPasswordSetup.Description": "Ota yhteyttä tukeen osoitteessa {supportUrl}.",
 
         "Register.UnknownError": "Tuntematon virhe",
@@ -2060,6 +2060,12 @@
         "Tools.Names.ControllerDiagnostic": "Ohjainten diagnostiikkatyökalu",
         "Tools.Names.Measure": "Mittaustyökalu",
         "Tools.Names.Label": "Labelointityökalu",
+
+        "Discord.RichPresence.InPrivateWorld": "Yksityisessä maailmassa",
+        "Discord.RichPresence.InPrivateLargeText": "Yksityisessä ({version})",
+        "Discord.RichPresence.InPublicWorld": "Julkisessa maailmassa",
+        "Discord.RichPresence.PublicWorldDetails": "{worldName} ({totalWorlds} maailmassa)",
+        "Discord.RichPresence.InPublicLargeText": "Julkisessa ({version})",
 
         "Dummy": "Dummy"
     }
