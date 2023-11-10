@@ -20,4 +20,4 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
     - name: Validate Locale
-      uses: Zandario/locale-checker-action@46dbeedf522fc598f46b2da305e2c6e6ec2c132f
+      uses: Zandario/locale-checker-action@b90ca8e833b534e266fb0a4ee52c6fb772d96250
