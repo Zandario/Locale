@@ -2059,7 +2059,6 @@
         "Tools.Names.Slicer": "Tahkoverkkojen viipalointityökalu",
         "Tools.Names.ControllerDiagnostic": "Ohjainten diagnostiikkatyökalu",
         "Tools.Names.Measure": "Mittaustyökalu",
-        "Tools.Names.Label": "Labelointityökalu",
 
         "Discord.RichPresence.InPrivateWorld": "Yksityisessä maailmassa",
         "Discord.RichPresence.InPrivateLargeText": "Yksityisessä ({version})",
